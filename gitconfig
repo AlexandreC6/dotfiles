@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alex.camilo6@hotmail.ch
+	name = Alexandre Camilo
